@@ -47,7 +47,7 @@
 
 - Hands-on Lab Working with Data in Google Cloud SQL
     - [Video1](https://drive.google.com/file/d/1RUdeyatACR9KJ2MKfuips6TcNitV5mXd/view)
-    - [Video2](https://drive.google.com/file/d/1l9OQWtTXDREDC5_p14iz-27d7Q3fq6_g/view)-
+    - [Video2](https://drive.google.com/file/d/1l9OQWtTXDREDC5_p14iz-27d7Q3fq6_g/view)
     - [Transcript](3.Storage_and_Databases/labs/2.working_with_data_in_google_cloud_sql.md)
 
 - Cloud Firestore
@@ -99,12 +99,12 @@
 
 ## 4. Big Data Ecosystem
 
-- Map_Reduce
+- Map Reduce
     - [Video](https://drive.google.com/file/d/17d5z5C1OoAmVmIkMj_je--12QbWB2Lyv/view)
-    - [Transcript](4.Big_Data_Ecosystem/1.Map_Reduce.md)
-- Hadoop_and_HDFS
+    - [Transcript](4.Big_Data_Ecosystem/F1.map_reduce.md)
+- Hadoop and HDFS
     - [Video](https://drive.google.com/file/d/1EbkXcPt7Hqyo1QPxBlJdbxJMplm8zRN0/view)
-    - [Transcript](4.Big_Data_Ecosystem/2.Hadoop_and_HDFS.md)
+    - [Transcript](4.Big_Data_Ecosystem/2.hadoop_and_hdfs.md)
 - Apache Pig
     - [Video](https://drive.google.com/file/d/1T6o855kk8XiQqmQismsHON-o0GFEIhgr/view)
     - [Transcript](4.Big_Data_Ecosystem/3.apache_pig.md)
