@@ -16,7 +16,7 @@
 
 - Introduction to Data Storage in GCP
     - [Video](https://drive.google.com/file/d/1scTR1D3eOfjQZL8m63FnCHrC8wFviooZ/view)
-    - [Transcript](3.Storage_and_Databases/1.introduction_to_data_storage_in_gcp.md)
+    - [Transcript](3.Storage_and_Databases/1.Introduction_to_Data_Storage_in_GCP.md)
 - Working with Data
     - [Video](https://drive.google.com/file/d/1ZwE1krprVArixb8Hm5ibpu1o7zrMctOZ/view)
     - [Transcript](3.Storage_and_Databases/2.working_with_data.md)
@@ -101,10 +101,10 @@
 
 - Map_Reduce
     - [Video](https://drive.google.com/file/d/17d5z5C1OoAmVmIkMj_je--12QbWB2Lyv/view)
-    - [Transcript](4.Big_Data_Ecosystem/1.map_reduce.md)
+    - [Transcript](4.Big_Data_Ecosystem/1.Map_Reduce.md)
 - Hadoop_and_HDFS
     - [Video](https://drive.google.com/file/d/1EbkXcPt7Hqyo1QPxBlJdbxJMplm8zRN0/view)
-    - [Transcript](4.Big_Data_Ecosystem/2.hadoop_and_hdfs.md)
+    - [Transcript](4.Big_Data_Ecosystem/2.Hadoop_and_HDFS.md)
 - Apache Pig
     - [Video](https://drive.google.com/file/d/1T6o855kk8XiQqmQismsHON-o0GFEIhgr/view)
     - [Transcript](4.Big_Data_Ecosystem/3.apache_pig.md)
