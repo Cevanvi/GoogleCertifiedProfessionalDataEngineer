@@ -101,10 +101,10 @@
 
 - Map Reduce
     - [Video](https://drive.google.com/file/d/17d5z5C1OoAmVmIkMj_je--12QbWB2Lyv/view)
-    - [Transcript](4.Big_Data_Ecosystem/F1.map_reduce.md)
+    - [Transcript](4.Big_Data_Ecosystem%2F1.map_reduce.md)
 - Hadoop and HDFS
     - [Video](https://drive.google.com/file/d/1EbkXcPt7Hqyo1QPxBlJdbxJMplm8zRN0/view)
-    - [Transcript](4.Big_Data_Ecosystem/2.hadoop_and_hdfs.md)
+    - [Transcript](4.Big_Data_Ecosystem%2F2.hadoop_and_hdfs.md)
 - Apache Pig
     - [Video](https://drive.google.com/file/d/1T6o855kk8XiQqmQismsHON-o0GFEIhgr/view)
     - [Transcript](4.Big_Data_Ecosystem/3.apache_pig.md)
