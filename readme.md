@@ -102,15 +102,55 @@
 - Map Reduce
     - [Video](https://drive.google.com/file/d/17d5z5C1OoAmVmIkMj_je--12QbWB2Lyv/view)
     - [Transcript](https://github.com/Cevanvi/GoogleCertifiedProfessionalDataEngineer/blob/main/4.Big_Data_Ecosystem/1.Map_Reduce.md)
+
 - Hadoop and HDFS
     - [Video](https://drive.google.com/file/d/1EbkXcPt7Hqyo1QPxBlJdbxJMplm8zRN0/view)
     - [Transcript](https://github.com/Cevanvi/GoogleCertifiedProfessionalDataEngineer/blob/main/4.Big_Data_Ecosystem/2.Hadoop_and_HDFS.md)
+
 - Apache Pig
     - [Video](https://drive.google.com/file/d/1T6o855kk8XiQqmQismsHON-o0GFEIhgr/view)
     - [Transcript](4.Big_Data_Ecosystem/3.apache_pig.md)
+
 - Apache Spark
     - [Video](https://drive.google.com/file/d/18qtE3iv-mPdQuZnA9YtwlZOZkUHJoNo8/view)
     - [Transcript](4.Big_Data_Ecosystem/4.apache_spark.md)
+
 - Apache Kafka
     - [Video](https://drive.google.com/file/d/1rw5TNIfxKvhP-QG9SZOY3WW5RJ_8-i09/view)
     - [Transcript](4.Big_Data_Ecosystem/5.apache_kafka.md)
+
+## 5.Real Time Messaging with Pub/Sub
+
+- Pub/Sub Concepts
+    - [Video](https://drive.google.com/file/d/11EeTIr6zwS-pWSK5bkUM0pa0IXjUhS-c/view?usp=drive_link)
+    - [Transcript](5.Real_Time_Messaging_with_PubSub%2F1.pubsub_concepts.md)
+
+- Pub/Sub Basics
+    - [Video](https://drive.google.com/file/d/1GLHB_nZN3uuzcQZ9js2efLrN3nJ2q9sB/view?usp=drive_link)
+    - [Transcript](5.Real_Time_Messaging_with_PubSub%2F2.pubsub_basics.md)
+
+- Demo Working with Cloud Pub/Sub
+    - [Video](https://drive.google.com/file/d/1Go8O84FJhKytWIHhBWhnqUfayJyEy5iO/view?usp=drive_link)
+    - [Transcript](5.Real_Time_Messaging_with_PubSub%2F3.demo_working_with_cloud_pubsub.md)
+
+- Demo Cloud Pub/Sub client libraries
+    - [Video](https://drive.google.com/file/d/1bRo7gYSQbn164tzUMVRLr7C7wxAPmQ3m/view?usp=drive_link)
+    - [Transcript](5.Real_Time_Messaging_with_PubSub%2F4.demo_cloud_pubsub_client_libraries.md)
+
+- Advanced Pub/Sub
+    - [Video](https://drive.google.com/file/d/1DimcinzX0-s4rD9x9Ye1UF2XOlM60S-8/view?usp=drive_link)
+    - [Transcript](5.Real_Time_Messaging_with_PubSub%2F5.advanced_pubsub.md)
+
+- Demo loosely coupled services with Cloud Pub/Sub
+    - [Video](https://drive.google.com/file/d/1ScSzSWgpeVsyNmYON8oVPBu5p1CPkblp/view?usp=drive_link)
+    - [Transcript](5.Real_Time_Messaging_with_PubSub%2F6.demo_loosely_coupled_services_with_cloud_pubsub.md)
+
+- Demo stream data through Cloud Pub/Sub Bigquery
+    - [Video](https://drive.google.com/file/d/1EXQ-3vt2SvjXt-raWkKrAs9UX9oAKgsQ/view?usp=drive_link)
+    - [Transcript](5.Real_Time_Messaging_with_PubSub%2F7.demo_stream_data_through_cloud_pubsub_to_bigquery.md)
+
+- exam_tips
+    - [Video](https://drive.google.com/file/d/1_hIfyQ36JmBMJeBwOG2WkSEoLDT8PYSl/view?usp=drive_link)
+    - [Transcript](5.Real_Time_Messaging_with_PubSub%2F8.exam_tips.md)
+
+- [quiz.md](5.Real_Time_Messaging_with_PubSub%2Fquiz.md)
