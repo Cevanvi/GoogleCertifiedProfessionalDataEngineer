@@ -1,6 +1,6 @@
 # Google Certified Professional Data Engineer
 
-## Introduction
+## 1.Introduction
 
 - [Welcome](https://drive.google.com/file/d/1CeNUiCLPaRbW8CqyM9iUWTHYfXVj9mA2/view)
 - [About This Course](https://drive.google.com/file/d/1J2HI8yFex2CB2mzkFU_M4e-OTipswQud/view)
@@ -97,7 +97,7 @@
 
 - [Quiz](3.Storage_and_Databases/quiz.md)
 
-## 4. Big Data Ecosystem
+## 4.Big Data Ecosystem
 
 - Map Reduce
     - [Video](https://drive.google.com/file/d/17d5z5C1OoAmVmIkMj_je--12QbWB2Lyv/view)
@@ -122,35 +122,75 @@
 ## 5.Real Time Messaging with Pub/Sub
 
 - Pub/Sub Concepts
-    - [Video](https://drive.google.com/file/d/11EeTIr6zwS-pWSK5bkUM0pa0IXjUhS-c/view?usp=drive_link)
+    - [Video](https://drive.google.com/file/d/11EeTIr6zwS-pWSK5bkUM0pa0IXjUhS-c/view)
     - [Transcript](5.Real_Time_Messaging_with_PubSub%2F1.pubsub_concepts.md)
 
 - Pub/Sub Basics
-    - [Video](https://drive.google.com/file/d/1GLHB_nZN3uuzcQZ9js2efLrN3nJ2q9sB/view?usp=drive_link)
+    - [Video](https://drive.google.com/file/d/1GLHB_nZN3uuzcQZ9js2efLrN3nJ2q9sB/view)
     - [Transcript](5.Real_Time_Messaging_with_PubSub%2F2.pubsub_basics.md)
 
 - Demo Working with Cloud Pub/Sub
-    - [Video](https://drive.google.com/file/d/1Go8O84FJhKytWIHhBWhnqUfayJyEy5iO/view?usp=drive_link)
+    - [Video](https://drive.google.com/file/d/1Go8O84FJhKytWIHhBWhnqUfayJyEy5iO/view)
     - [Transcript](5.Real_Time_Messaging_with_PubSub%2F3.demo_working_with_cloud_pubsub.md)
 
 - Demo Cloud Pub/Sub client libraries
-    - [Video](https://drive.google.com/file/d/1bRo7gYSQbn164tzUMVRLr7C7wxAPmQ3m/view?usp=drive_link)
+    - [Video](https://drive.google.com/file/d/1bRo7gYSQbn164tzUMVRLr7C7wxAPmQ3m/view)
     - [Transcript](5.Real_Time_Messaging_with_PubSub%2F4.demo_cloud_pubsub_client_libraries.md)
 
 - Advanced Pub/Sub
-    - [Video](https://drive.google.com/file/d/1DimcinzX0-s4rD9x9Ye1UF2XOlM60S-8/view?usp=drive_link)
+    - [Video](https://drive.google.com/file/d/1DimcinzX0-s4rD9x9Ye1UF2XOlM60S-8/view)
     - [Transcript](5.Real_Time_Messaging_with_PubSub%2F5.advanced_pubsub.md)
 
 - Demo loosely coupled services with Cloud Pub/Sub
-    - [Video](https://drive.google.com/file/d/1ScSzSWgpeVsyNmYON8oVPBu5p1CPkblp/view?usp=drive_link)
+    - [Video](https://drive.google.com/file/d/1ScSzSWgpeVsyNmYON8oVPBu5p1CPkblp/view)
     - [Transcript](5.Real_Time_Messaging_with_PubSub%2F6.demo_loosely_coupled_services_with_cloud_pubsub.md)
 
 - Demo stream data through Cloud Pub/Sub Bigquery
-    - [Video](https://drive.google.com/file/d/1EXQ-3vt2SvjXt-raWkKrAs9UX9oAKgsQ/view?usp=drive_link)
+    - [Video](https://drive.google.com/file/d/1EXQ-3vt2SvjXt-raWkKrAs9UX9oAKgsQ/view)
     - [Transcript](5.Real_Time_Messaging_with_PubSub%2F7.demo_stream_data_through_cloud_pubsub_to_bigquery.md)
 
-- exam_tips
-    - [Video](https://drive.google.com/file/d/1_hIfyQ36JmBMJeBwOG2WkSEoLDT8PYSl/view?usp=drive_link)
+- Exam Tips
+    - [Video](https://drive.google.com/file/d/1_hIfyQ36JmBMJeBwOG2WkSEoLDT8PYSl/view)
     - [Transcript](5.Real_Time_Messaging_with_PubSub%2F8.exam_tips.md)
 
-- [quiz.md](5.Real_Time_Messaging_with_PubSub%2Fquiz.md)
+- [Quiz](5.Real_Time_Messaging_with_PubSub%2Fquiz.md)
+
+## 6.Pipelines with Cloud Dataflow
+
+- Dataflow Introduction
+    - [Video](https://drive.google.com/file/d/1nO2r2iJ7uHDvris0Qu7F9TP8Pqu7E_2W/view?usp=drive_link)
+    - [Transcript](6.Pipelines_with_Cloud_Dataflow/1.dataflow_introduction.md)
+
+- Pipeline Lifecycle
+    - [Video](https://drive.google.com/file/d/1yd-slzLsvtFaXwJfP7bxTUg4R-B72_45/view?usp=drive_link)
+    - [Transcript](6.Pipelines_with_Cloud_Dataflow/2.pipeline_lifecycle.md)
+
+- Dataflow Pipeline Concepts
+    - [Video](https://drive.google.com/file/d/1n1YdffrU9_liYmRjRzAAuQOWnw649DZ6/view?usp=drive_link)
+    - [Transcript](6.Pipelines_with_Cloud_Dataflow/3.dataflow_pipeline_concepts.md)
+
+- Advanced Dataflow Concepts
+    - [Video](https://drive.google.com/file/d/1p0r0YdImZTORcnU4MtttsT82pyj7s3o4/view?usp=drive_link)
+    - [Transcript](6.Pipelines_with_Cloud_Dataflow/4.advanced_dataflow_concepts.md)
+
+- Dataflow Security and Access
+    - [Video](https://drive.google.com/file/d/1nUL5qfM-QWy_KER-FosQvo68Kzrcbs1U/view?usp=drive_link)
+    - [Transcript](6.Pipelines_with_Cloud_Dataflow/5.dataflow_security_and_access.md)
+
+- Using Dataflow
+    - [Video](https://drive.google.com/file/d/1Ii11F6gmzjduZS5G2nBH7H0H0xJIZDG9/view?usp=drive_link)
+    - [Transcript](6.Pipelines_with_Cloud_Dataflow/6.using_dataflow.md)
+
+- Exam Tips
+    - [Video](https://drive.google.com/file/d/15gZqk6tpKmC5-EHNwhpUlJ_SK24FEbjF/view?usp=drive_link)
+    - [Transcript](6.Pipelines_with_Cloud_Dataflow/7.exam_tips.md)
+
+- Demo: Working with Cloud Dataflow
+    - [Video](https://drive.google.com/file/d/12ol0lUk3l-3WWpzXfAhwLoDHEbPJvXUv/view?usp=drive_link)
+    - [Transcript](6.Pipelines_with_Cloud_Dataflow/8.demo_working_with_cloud_dataflow.md)
+
+- Demo: Streaming Pipelines with Cloud Dataflow
+    - [Video](https://drive.google.com/file/d/1uwiAD4wIk_zOeIn5zY9LPFbo7EYMW9kA/view?usp=drive_link)
+    - [Transcript](6.Pipelines_with_Cloud_Dataflow/9.demo_streaming_pipelines_with_cloud_dataflow.md)
+
+- [Quiz](6.Pipelines_with_Cloud_Dataflow/quiz.md)
