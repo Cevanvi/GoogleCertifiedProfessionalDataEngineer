@@ -1,18 +1,26 @@
 # Google Certified Professional Data Engineer
 
-## 1.Introduction
+1. [Introduction](#introduction)
+2. [Data Processing Fundamentals](#data-processing-fundamentals)
+3. [Storage and Databases](#storage-and-databases)
+4. [Big Data Ecosystem](#big-data-ecosystem)
+5. [Real Time Messaging with Pub/Sub](#real-time-messaging-with-pubsub)
+6. [Pipelines with Cloud Dataflow](#pipelines-with-cloud-dataflow)
+7. [Managed Spark with Cloud Dataproc](#managed-spark-with-cloud-dataproc)
+
+## Introduction
 
 - [Welcome](https://drive.google.com/file/d/1CeNUiCLPaRbW8CqyM9iUWTHYfXVj9mA2/view)
 - [About This Course](https://drive.google.com/file/d/1J2HI8yFex2CB2mzkFU_M4e-OTipswQud/view)
 - [Course Audience and Prerequisites](https://drive.google.com/file/d/1te6DQckxqwbO05f-RLUvACBA9C7TnyP5/view)
 - [A Note About Demo Lessons](https://drive.google.com/file/d/1Ht-tj2jqoNnqqg-S-dI7BuwRO_p_k7XC/view)
 
-## 2.Data Processing Fundamentals
+## Data Processing Fundamentals
 
 - [Data Processing Concepts](https://drive.google.com/file/d/1khc1WqjRR1NbBX9wLvoodytZ7282obY2/view)
 - [DataProcessing Pipelines](https://drive.google.com/file/d/1gaA5PQW6Z2ozjjSlYa70ATWFL5Lnt0CR/view)
 
-## 3.Storage and Databases
+## Storage and Databases
 
 - Introduction to Data Storage in GCP
     - [Video](https://drive.google.com/file/d/1scTR1D3eOfjQZL8m63FnCHrC8wFviooZ/view)
@@ -97,7 +105,7 @@
 
 - [Quiz](3.Storage_and_Databases/quiz.md)
 
-## 4.Big Data Ecosystem
+## Big Data Ecosystem
 
 - Map Reduce
     - [Video](https://drive.google.com/file/d/17d5z5C1OoAmVmIkMj_je--12QbWB2Lyv/view)
@@ -119,7 +127,7 @@
     - [Video](https://drive.google.com/file/d/1rw5TNIfxKvhP-QG9SZOY3WW5RJ_8-i09/view)
     - [Transcript](4.Big_Data_Ecosystem/5.apache_kafka.md)
 
-## 5.Real Time Messaging with Pub/Sub
+## Real Time Messaging with Pub/Sub
 
 - Pub/Sub Concepts
     - [Video](https://drive.google.com/file/d/11EeTIr6zwS-pWSK5bkUM0pa0IXjUhS-c/view)
@@ -155,7 +163,7 @@
 
 - [Quiz](5.Real_Time_Messaging_with_PubSub%2Fquiz.md)
 
-## 6.Pipelines with Cloud Dataflow
+## Pipelines with Cloud Dataflow
 
 - Dataflow Introduction
     - [Video](https://drive.google.com/file/d/1nO2r2iJ7uHDvris0Qu7F9TP8Pqu7E_2W/view)
@@ -195,7 +203,7 @@
 
 - [Quiz](6.Pipelines_with_Cloud_Dataflow/quiz.md)
 
-## 7.Managed Spark with Cloud Dataproc
+## Managed Spark with Cloud Dataproc
 
 - Dataproc Overview
     - [Video](https://drive.google.com/file/d/1l4E6scaAQJKJV0kEzTe2nGHNmApBER6T/view)
