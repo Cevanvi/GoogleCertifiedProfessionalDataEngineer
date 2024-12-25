@@ -158,39 +158,64 @@
 ## 6.Pipelines with Cloud Dataflow
 
 - Dataflow Introduction
-    - [Video](https://drive.google.com/file/d/1nO2r2iJ7uHDvris0Qu7F9TP8Pqu7E_2W/view?usp=drive_link)
+    - [Video](https://drive.google.com/file/d/1nO2r2iJ7uHDvris0Qu7F9TP8Pqu7E_2W/view)
     - [Transcript](6.Pipelines_with_Cloud_Dataflow/1.dataflow_introduction.md)
 
 - Pipeline Lifecycle
-    - [Video](https://drive.google.com/file/d/1yd-slzLsvtFaXwJfP7bxTUg4R-B72_45/view?usp=drive_link)
+    - [Video](https://drive.google.com/file/d/1yd-slzLsvtFaXwJfP7bxTUg4R-B72_45/view)
     - [Transcript](6.Pipelines_with_Cloud_Dataflow/2.pipeline_lifecycle.md)
 
 - Dataflow Pipeline Concepts
-    - [Video](https://drive.google.com/file/d/1n1YdffrU9_liYmRjRzAAuQOWnw649DZ6/view?usp=drive_link)
+    - [Video](https://drive.google.com/file/d/1n1YdffrU9_liYmRjRzAAuQOWnw649DZ6/view)
     - [Transcript](6.Pipelines_with_Cloud_Dataflow/3.dataflow_pipeline_concepts.md)
 
 - Advanced Dataflow Concepts
-    - [Video](https://drive.google.com/file/d/1p0r0YdImZTORcnU4MtttsT82pyj7s3o4/view?usp=drive_link)
+    - [Video](https://drive.google.com/file/d/1p0r0YdImZTORcnU4MtttsT82pyj7s3o4/view)
     - [Transcript](6.Pipelines_with_Cloud_Dataflow/4.advanced_dataflow_concepts.md)
 
 - Dataflow Security and Access
-    - [Video](https://drive.google.com/file/d/1nUL5qfM-QWy_KER-FosQvo68Kzrcbs1U/view?usp=drive_link)
+    - [Video](https://drive.google.com/file/d/1nUL5qfM-QWy_KER-FosQvo68Kzrcbs1U/view)
     - [Transcript](6.Pipelines_with_Cloud_Dataflow/5.dataflow_security_and_access.md)
 
 - Using Dataflow
-    - [Video](https://drive.google.com/file/d/1Ii11F6gmzjduZS5G2nBH7H0H0xJIZDG9/view?usp=drive_link)
+    - [Video](https://drive.google.com/file/d/1Ii11F6gmzjduZS5G2nBH7H0H0xJIZDG9/view)
     - [Transcript](6.Pipelines_with_Cloud_Dataflow/6.using_dataflow.md)
 
 - Exam Tips
-    - [Video](https://drive.google.com/file/d/15gZqk6tpKmC5-EHNwhpUlJ_SK24FEbjF/view?usp=drive_link)
+    - [Video](https://drive.google.com/file/d/15gZqk6tpKmC5-EHNwhpUlJ_SK24FEbjF/view)
     - [Transcript](6.Pipelines_with_Cloud_Dataflow/7.exam_tips.md)
 
 - Demo: Working with Cloud Dataflow
-    - [Video](https://drive.google.com/file/d/12ol0lUk3l-3WWpzXfAhwLoDHEbPJvXUv/view?usp=drive_link)
+    - [Video](https://drive.google.com/file/d/12ol0lUk3l-3WWpzXfAhwLoDHEbPJvXUv/view)
     - [Transcript](6.Pipelines_with_Cloud_Dataflow/8.demo_working_with_cloud_dataflow.md)
 
 - Demo: Streaming Pipelines with Cloud Dataflow
-    - [Video](https://drive.google.com/file/d/1uwiAD4wIk_zOeIn5zY9LPFbo7EYMW9kA/view?usp=drive_link)
+    - [Video](https://drive.google.com/file/d/1uwiAD4wIk_zOeIn5zY9LPFbo7EYMW9kA/view)
     - [Transcript](6.Pipelines_with_Cloud_Dataflow/9.demo_streaming_pipelines_with_cloud_dataflow.md)
 
 - [Quiz](6.Pipelines_with_Cloud_Dataflow/quiz.md)
+
+## 7.Managed Spark with Cloud Dataproc
+
+- Dataproc Overview
+    - [Video](https://drive.google.com/file/d/1l4E6scaAQJKJV0kEzTe2nGHNmApBER6T/view)
+    - [Transcript](7.Managed_Spark_with_Cloud_Dataproc%2F1.dataproc_overview.md)
+- Dataproc Basics
+    - [Video](https://drive.google.com/file/d/1B_UvN-PfTCaUVGdg--R8qlECMyblC9Kv/view)
+    - [Transcript](7.Managed_Spark_with_Cloud_Dataproc%2F2.dataproc_basics.md)
+- Demo: Working with Cloud Dataproc
+    - [Video](https://drive.google.com/file/d/1COeOFjqi6U6f6OErrfu9PbnZ6YspHkhR/view)
+    - [Transcript](7.Managed_Spark_with_Cloud_Dataproc%2F3.demo_working_with_cloud_dataproc.md)
+- Advanced Dataproc
+    - [Video](https://drive.google.com/file/d/1txeH2HSTockyt4d39rCFFlNlCGQZJM1K/view)
+    - [Transcript](7.Managed_Spark_with_Cloud_Dataproc%2F4.advanced_dataproc.md)
+- Demo: Cloud Dataproc with the GCS Connector
+    - [Video](https://drive.google.com/file/d/1t_xUwL1XV_ZsXZ_f7Uw__bxjCvj6scRt/view)
+    - [Transcript](7.Managed_Spark_with_Cloud_Dataproc%2F5.demo_cloud_dataproc_with_the_gcs_connector.md)
+- Exam Tips
+    - [Video](https://drive.google.com/file/d/1vv5aMOCe46EzOIJDIjogfpbxRC_aZDiJ/view)
+    - [Transcript](7.Managed_Spark_with_Cloud_Dataproc%2F6.exam_tips.md)
+- Hands-on Lab Running a Pyspark Job on Cloud Dataproc Using Google Cloud Storage
+    - [Video1](https://drive.google.com/file/d/1Z5ovx2EK-T6HTR9lFnEssB6sFcqS5NO9/view)
+    - [Video2](https://drive.google.com/file/d/1EHEdA7vL1AF4knAY9dikZqGyydGJoHs0/view)
+    - [Transcript](7.Managed_Spark_with_Cloud_Dataproc%2F7.running_a_pyspark_job_on_cloud_dataproc_using_google_cloud_storage.md)
