@@ -2,7 +2,7 @@
 
 - Introduction to Data Storage in GCP
     - [Video](https://drive.google.com/file/d/1scTR1D3eOfjQZL8m63FnCHrC8wFviooZ/view)
-    - [Transcript](1.Introduction_to_Data_Storage_in_GCP.md)
+    - [Transcript](1.introduction_to_data_storage_in_gcp.md)
 - Working with Data
     - [Video](https://drive.google.com/file/d/1ZwE1krprVArixb8Hm5ibpu1o7zrMctOZ/view)
     - [Transcript](2.working_with_data.md)
